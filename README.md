@@ -10,7 +10,7 @@ By **Afoekon** · MIT licensed · **Beta**
 
 - WoW Forever (interface 16001).
 - [Clique](https://www.curseforge.com/wow/addons/clique), enabled. Developed against v5.1.5-release.
-- EllesmereUI Forever Essentials, enabled, with its **Classic Spellbook** feature switched on.
+- [EllesmereUI](https://www.curseforge.com/wow/addons/ellesmereui), including its Forever Essentials module, enabled with **Classic Spellbook** switched on.
 
 This currently supports EllesmereUI's replacement spellbook only. It does not add binding support to Blizzard's normal spellbook, and is not tested on Retail, Classic Era, or other clients.
 
@@ -25,7 +25,7 @@ This currently supports EllesmereUI's replacement spellbook only. It does not ad
 
 ## Installation
 
-Install Clique and EllesmereUI Forever Essentials separately. Extract the release ZIP so the folder is `Interface/AddOns/CliqueSpellbookCompanion/` and contains `CliqueSpellbookCompanion.toc`. Restart WoW for a new install; `/reload` is sufficient when updating existing files. Enable all three addons and EllesmereUI's Classic Spellbook feature.
+Install Clique and EllesmereUI separately; Forever Essentials is included with EllesmereUI. Extract the release ZIP so the folder is `Interface/AddOns/CliqueSpellbookCompanion/` and contains `CliqueSpellbookCompanion.toc`. Restart WoW for a new install; `/reload` is sufficient when updating existing files. Enable Clique, EllesmereUI, and its Forever Essentials module and EllesmereUI's Classic Spellbook feature.
 
 Use the packaged release ZIP for installation. A GitHub source-code download adds an outer directory that you must remove.
 
