@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.1.1-beta â€” 2026-11-12
+## 1.1.1-beta — 2026-11-12
 
 First public beta. Adds public documentation, MIT license, compatibility checks, and an original companion icon.
 

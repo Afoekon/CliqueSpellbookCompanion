@@ -2,7 +2,9 @@
 
 Direct spellbook binding and a live Clique binding list for **WoW Forever with EllesmereUI's Classic Spellbook**.
 
-By **Afoekon** Â· MIT licensed Â· **Beta**
+By **Afoekon** · MIT licensed · **Beta**
+
+![Spellbook and live Clique bindings](docs/spellbook-bindings.png)
 
 ## Requirements
 
@@ -48,7 +50,7 @@ Binding configuration is unavailable in combat. This addon does not modify Cliqu
 
 ## Beta status and support
 
-The original bridge was tested in game for keyboard binding and casting Rejuvenation on a unit frame, and the user confirmed v1.0.0 working. The live-list update passed isolated Lua behavior checks; its latest layout, combat transitions, and training new spell ranks still need broader in-game testing. Start with a backed-up Clique profile.
+The original bridge was tested in game for keyboard binding and casting Rejuvenation on a unit frame, and the user confirmed v1.0.0 working. The live-list update passed isolated Lua behavior checks, and the screenshot above shows its layout in game. Combat transitions and training new spell ranks still need broader in-game testing. Start with a backed-up Clique profile.
 
 Report the steps to reproduce a problem, `/csc status` output, client version/language, and the exact error message. Avoid including account details or full saved-variable files in public reports.
 
