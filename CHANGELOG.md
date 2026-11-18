@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.2.0 — 2026-11-17
+
+- Right-click a spellbook binding to edit it in Clique or delete that exact binding.
+- Arrow submenus with radio buttons for Where, Which units, and When a binding is active.
+- Readable binding details in the list, with specialization restrictions preserved during quick edits.
+- What's New popup once per release, with a saved "Don't show update popups" checkbox.
+- Reopen release notes using the What's new button or `/csc news`.
+- Notices wait until combat ends. Binding menus cannot change bindings during combat.
+
 ## 1.1.1-beta — 2026-11-12
 
 First public beta. Adds public documentation, MIT license, compatibility checks, and an original companion icon.
