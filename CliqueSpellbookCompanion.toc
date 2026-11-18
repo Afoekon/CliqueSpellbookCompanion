@@ -2,7 +2,7 @@
 ## Title: Clique Spellbook Companion
 ## Notes: Direct binding from EllesmereUI's classic spellbook, with highest ranks by default.
 ## Author: Afoekon
-## Version: 1.1.1-beta
+## Version: 1.2.0
 ## Dependencies: Clique, EllesmereUIForeverEssentials
 ## X-License: MIT
 ## IconTexture: Interface\AddOns\CliqueSpellbookCompanion\Icon
